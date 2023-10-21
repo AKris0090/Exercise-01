@@ -1,5 +1,5 @@
 // Exercise 01: Normalized Movement
-// Name: Ajun Krishnan
+// Name: Arjun Krishnan
 // Date: 10/20/2023
 
 // Spritesheet by ElvGames: https://elv-games.itch.io/free-fantasy-dreamland-sprites
